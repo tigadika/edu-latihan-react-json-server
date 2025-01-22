@@ -1,4 +1,4 @@
-# Latihan Live Code 1 Phase 1 Batch 06
+# Latihan React + JSON Server
 
 Dalam latihan ini, tugas kalian adalah membuat aplikasi movie seperti contoh dibawah ini (layout dan styling tidak perlu sama)
 
