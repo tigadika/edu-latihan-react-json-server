@@ -1,0 +1,84 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception",
+      "rating": 8.8,
+      "desc": "A thief enters dreams to plant ideas",
+      "imageUrl": "https://image.tmdb.org/t/p/original/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "genre": "Action"
+    },
+    {
+      "id": "2",
+      "title": "The Shawshank Redemption",
+      "rating": 9.3,
+      "desc": "Hope and friendship triumph in prison",
+      "imageUrl": "https://image.tmdb.org/t/p/original/voKPwraRvfp4IIlCAIbTzrg7O4i.jpg",
+      "genre": "Drama"
+    },
+    {
+      "id": "3",
+      "title": "The Dark Knight",
+      "rating": 9.0,
+      "desc": "Batman faces his greatest nemesis",
+      "imageUrl": "https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "genre": "Action"
+    },
+    {
+      "id": "4",
+      "title": "Pulp Fiction",
+      "rating": 8.9,
+      "desc": "Interconnected crime stories in LA",
+      "imageUrl": "https://image.tmdb.org/t/p/original/x1QZHSq9AzreIVbsp8VgYemAjV0.jpg",
+      "genre": "Drama"
+    },
+    {
+      "id": "5",
+      "title": "Forrest Gump",
+      "rating": 8.8,
+      "desc": "A simple man's extraordinary life journey",
+      "imageUrl": "https://image.tmdb.org/t/p/original/h5J4W4veyxMXDMjeNxZI46TsHOb.jpg",
+      "genre": "Drama"
+    },
+    {
+      "id": "6",
+      "title": "The Matrix",
+      "rating": 8.7,
+      "desc": "Reality is not what it seems",
+      "imageUrl": "https://image.tmdb.org/t/p/original/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+      "genre": "Action"
+    },
+    {
+      "id": "7",
+      "title": "Goodfellas",
+      "rating": 8.7,
+      "desc": "Rise and fall in the mob world",
+      "imageUrl": "https://image.tmdb.org/t/p/original/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+      "genre": "Action"
+    },
+    {
+      "id": "8",
+      "title": "The Silence of the Lambs",
+      "rating": 8.6,
+      "desc": "FBI trainee hunts a serial killer",
+      "imageUrl": "https://image.tmdb.org/t/p/original/rplLJ2hPcOQmkFhTqUte0MkEaO2.jpg",
+      "genre": "Drama"
+    },
+    {
+      "id": "9",
+      "title": "Fight Club",
+      "rating": 8.8,
+      "desc": "An insomniac's dark journey",
+      "imageUrl": "https://image.tmdb.org/t/p/original/tcmNYC8ub4E51gkErXoIgkbESZH.jpg",
+      "genre": "Action"
+    },
+    {
+      "id": "10",
+      "title": "The Godfather",
+      "rating": 9.2,
+      "desc": "A mafia family's power struggle",
+      "imageUrl": "https://image.tmdb.org/t/p/original/gk1IvgCYg6v5H5cps21ILSOrYER.jpg",
+      "genre": "Drama"
+    }
+  ]
+}
